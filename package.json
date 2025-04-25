@@ -1,0 +1,18 @@
+{
+  "name": "site-vitrine-html",
+  "version": "1.0.0",
+  "description": "Site vitrine en HTML et Tailwind CSS sans framework",
+  "type": "module",
+  "main": "serve.js",
+  "scripts": {
+    "start": "node serve.js"
+  },
+  "keywords": [
+    "html",
+    "tailwind",
+    "css",
+    "javascript"
+  ],
+  "author": "",
+  "license": "MIT"
+}
